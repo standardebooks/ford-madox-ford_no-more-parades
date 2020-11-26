@@ -39,6 +39,9 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Parade’s End</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">2</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
@@ -48,7 +51,7 @@
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.546845</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/No_More_Parades</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/No_More_Parades_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ford-madox-ford_no-more-parades</meta>
 		<dc:creator id="author">Ford Madox Ford</dc:creator>
 		<meta property="file-as" refines="#author">Ford, Ford Madox</meta>
