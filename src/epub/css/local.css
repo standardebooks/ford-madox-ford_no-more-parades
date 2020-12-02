@@ -23,3 +23,16 @@
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:signature"] + p{
+	margin-top: 1em;
+}
+
+[epub|type~="z3998:salutation"] + p{
+	text-indent: 0;
+}
