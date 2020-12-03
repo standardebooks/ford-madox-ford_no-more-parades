@@ -42,9 +42,12 @@
 		<meta id="collection-1" property="belongs-to-collection">Parade’s End</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">An English gentleman gives his best as an officer during World War I, while struggling with his scandalous wife, the incompetence of the army, and the brutality of war.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;No More Parades&lt;/i&gt; is the second in &lt;a href="https://standardebooks.org/ebooks/ford-madox-ford"&gt;Ford Madox Ford’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/parades-end"&gt;Parade’s End&lt;/a&gt; series. The book, released just a few years after the close of the war, is based on Ford’s combat experiences as an enlisted man in World War I, and continues the story first begun in &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/ford-madox-ford/some-do-not"&gt;Some Do Not …&lt;/a&gt;&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;Christopher Tietjens, after recovering from the shell shock he suffered in &lt;i&gt;Some Do Not …&lt;/i&gt;, has returned to the edge of the war as a commanding officer in charge of preparing draft troops for deployment to the front. As the “last true Tory,” Tietjens demonstrates talent bordering on genius as he struggles against the laziness, incompetence, and confusion of the army around him—but his troubles only begin when his self-centered and scandalous wife Sylvia appears at his base in Rouen for a surprise visit.&lt;/p&gt;
+			&lt;p&gt;Unlike &lt;i&gt;Some Do Not …&lt;/i&gt;, which was told in a highly modernist series of flash-backs and flash-forwards, &lt;i&gt;Parade’s End&lt;/i&gt; is a much more straightforward narrative. Despite this, the characters continue to be realized in an incredibly complex and nuanced way. Tietjens, almost a caricature of the stiff, honorable English gentleman, stoically absorbs the problems and suffering of those around him. Ford simultaneously paints him as an almost Christlike character and an immature, idealistic schoolboy, eager to keep up appearances despite the ruination that causes the people around him. Sylvia, his wife, has had her affairs and scandals, and is clearly a selfish and trying personality; but her powerful charm, and her frustration with both her almost comically stiff-lipped husband and the war’s interruption of civilization, lends her a not-unsympathetic air. The supporting cast of conscripts and officers is equally well-realized, with each one protraying a separate aspect of war’s effect on regular, scared people simply doing their best.&lt;/p&gt;
+			&lt;p&gt;The novel was extremely well-reviewed in its time, and it and the series it’s a part of remain one of the most important fiction novels written about World War I.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://www.gutenberg.net.au/ebooks07/0700181h.html</dc:source>
@@ -59,6 +62,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Ford_Madox_Ford</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79045085</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Richard Jack</dc:contributor>
 		<meta property="file-as" refines="#artist">Jack, Richard</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Richard_Jack</meta>
