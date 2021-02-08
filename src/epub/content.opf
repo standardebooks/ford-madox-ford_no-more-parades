@@ -47,9 +47,9 @@
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">57</meta>
 		<!--The Parade's End tetralogy, not any individual novel, also placed #57-->
-		<meta id="collection-1" property="belongs-to-collection">The BBC’s 100 greatest British novels (2015)</meta>
-		<meta property="collection-type" refines="#collection-1">set</meta>
-		<meta property="group-position" refines="#collection-1">57</meta>
+		<meta id="collection-3" property="belongs-to-collection">The BBC’s 100 greatest British novels (2015)</meta>
+		<meta property="collection-type" refines="#collection-3">set</meta>
+		<meta property="group-position" refines="#collection-3">57</meta>
 		<dc:description id="description">An English gentleman gives his best as an officer during World War I, while struggling with his scandalous wife, the incompetence of the army, and the brutality of war.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;No More Parades&lt;/i&gt; is the second in &lt;a href="https://standardebooks.org/ebooks/ford-madox-ford"&gt;Ford Madox Ford’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/parades-end"&gt;Parade’s End&lt;/a&gt; series. The book, released just a few years after the close of the war, is based on Ford’s combat experiences as an enlisted man in World War I, and continues the story first begun in &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/ford-madox-ford/some-do-not"&gt;Some Do Not …&lt;/a&gt;&lt;/i&gt;.&lt;/p&gt;
