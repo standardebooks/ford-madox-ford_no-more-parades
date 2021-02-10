@@ -47,7 +47,7 @@
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">57</meta>
 		<!--The Parade's End tetralogy, not any individual novel, also placed #57-->
-		<meta id="collection-3" property="belongs-to-collection">The BBC’s 100 greatest British novels (2015)</meta>
+		<meta id="collection-3" property="belongs-to-collection">The BBC’s 100 Greatest British Novels (2015)</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
 		<meta property="group-position" refines="#collection-3">57</meta>
 		<dc:description id="description">An English gentleman gives his best as an officer during World War I, while struggling with his scandalous wife, the incompetence of the army, and the brutality of war.</dc:description>
